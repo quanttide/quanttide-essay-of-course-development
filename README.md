@@ -1,0 +1,1 @@
+# quanttide-essay-of-course-development
